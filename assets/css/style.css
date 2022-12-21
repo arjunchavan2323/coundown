@@ -1,0 +1,32 @@
+ @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;700&display=swap'); 
+
+
+
+
+body{
+	background-color:#000;
+	color:#fff;
+	font-family: 'Orbitron', sans-serif;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:100vh;
+	
+}
+
+
+
+
+.countdown{
+	font-size:36px;
+	color:#17d4fe;
+	text-shadow:2px 2px 20px #17d4fe;
+	display:inline-block;
+	margin:0 15px;
+	/*position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%, -50%);/*
+}
+	
+	
